@@ -1,0 +1,22 @@
+.center {
+    max-width: 50%;
+    margin: auto;
+}
+.boxes {
+    width: 800px;
+    height: auto;
+    border: 3px solid #5d5d5d;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 10px;
+    display: block;
+    box-sizing: border-box;
+}
+.center_title{
+    text-align: center;
+}
+body{
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+}
