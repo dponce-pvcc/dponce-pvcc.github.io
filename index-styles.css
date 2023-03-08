@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+}
+table {
+    width: 800px;
+    font-size: 1.3em;
+    font-weight: bold;
+    background-color: #70ac7a70;
+    margin: auto;
+}
+a{text-decoration: none;}
+a:link {color: white;}
+a:visited {color: white;}
+a:hover {color: #C3234C;}
+a:active {color:rgb(177, 175, 202);}
