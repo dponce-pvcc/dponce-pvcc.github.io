@@ -1,0 +1,45 @@
+.center {
+    max-width: 50%;
+    margin: auto;
+}
+.boxes {
+    width: 800px;
+    height: auto;
+    border: 3px solid #5d5d5d;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 10px;
+    display: block;
+    box-sizing: border-box;
+}
+.center_title{
+    text-align: center;
+}
+body{
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+table {
+    width: 800px;
+    font-size: 1.3em;
+    font-weight: bold;
+    background-color: #70ac7a70;
+    margin: auto;
+}
+a{text-decoration: none;}
+a:link {color: white;}
+a:visited {color: white;}
+a:hover {color: #C3234C;}
+a:active {color:rgb(177, 175, 202);}
+
+iframe {
+    width: 800px;
+    height: 100%;
+    position: absolute;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
