@@ -18,12 +18,15 @@
     background-color: white;
 }
 
-.blur { 
-    height: 100%; max-width:100%;
+.blur {
+    height: 100%;
+    max-width: 100%;
 }
-.blur-div { 
+
+.blur-div {
     width: 100%; height: 250px;
 }
+
 li {
     line-height: 1.8;
     word-spacing: 2px;
@@ -39,3 +42,4 @@ img {
     height: 100px;
     float: left;
 }
+
