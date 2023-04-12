@@ -42,4 +42,11 @@ img {
     height: 100px;
     float: left;
 }
+table,th,td {border: 1px solid black; margin: auto;}
+body{
 
+color: black; 
+background-color: #F0F0F0;
+font-family: verdana, arial, sans-serif;
+font-size: 15px;
+}
